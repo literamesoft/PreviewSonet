@@ -12618,7 +12618,7 @@ function fd() {
   return O(), (ci.exports = nd()), ci.exports;
 }
 var cd = fd();
-const id = "/assets/sonet-B_k4AhUs.jpg",
+const id = "/sonet-B_k4AhUs.jpg",
   sd = () =>
     B.jsx("div", {
       className: "Splash",
