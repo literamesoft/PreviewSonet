@@ -12618,7 +12618,7 @@ function fd() {
   return O(), (ci.exports = nd()), ci.exports;
 }
 var cd = fd();
-const id = "/sonet-B_k4AhUs.jpg",
+const id = "./sonet-B_k4AhUs.jpg",
   sd = () =>
     B.jsx("div", {
       className: "Splash",
@@ -12692,9 +12692,9 @@ function Xn({ TituloColeccion: O, listaColeccion: V }) {
     ],
   });
 }
-const My = "/mana-D2SqnqD-.jfif",
-  Dy = "/michael-DWsFV7ex.jpg",
-  Uy = "/linkinpark-qz-IizHs.jpg",
+const My = "./mana-D2SqnqD-.jfif",
+  Dy = "./michael-DWsFV7ex.jpg",
+  Uy = "./linkinpark-qz-IizHs.jpg",
   dd = () => {
     const O = [
         { titulo: "Mana", imagen: My },
